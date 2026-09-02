@@ -1,4 +1,6 @@
-## Hi there 👋
+## Jello there
+
+Currently looking for an entry level job, surely it can't be that bad...
 
 <!--
 **skam34/skam34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
